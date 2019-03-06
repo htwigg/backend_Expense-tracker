@@ -1,0 +1,26 @@
+{
+  "name": "backend_expense-tracker",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htwigg/backend_Expense-tracker.git"
+  },
+  "author": "TheOGDayOneKr3W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htwigg/backend_Expense-tracker/issues"
+  },
+  "homepage": "https://github.com/htwigg/backend_Expense-tracker#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
